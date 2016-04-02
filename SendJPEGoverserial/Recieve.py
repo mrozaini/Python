@@ -1,5 +1,4 @@
 import serial
-import time
 from PIL import Image
 
 ser = serial.Serial("COM11",9600)
